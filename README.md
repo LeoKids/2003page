@@ -1,5 +1,4 @@
-# 2003page
-[![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
-## What is 2003page?
+# allEditSite
+This code blows!
 
-2003page is a open source website. People can contribute to 2003page freely.
+A new repository has been made, this one was too bloated (it takes around 700mb to download it due to remains of old bloated files from 2019-2020).
